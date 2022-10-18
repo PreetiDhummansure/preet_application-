@@ -1,0 +1,32 @@
+.author-name {
+	color: #1e73be;
+	font-weight: bold;
+}
+
+.on-hover:hover {
+	color: #1e73be;
+}
+
+.comment-author {
+	font-weight: bold;
+}
+
+.blog-title {
+	text-align: justify;
+}
+
+.blog-title:hover {
+	color: #1e73be;
+}
+
+.img-circle {
+	border-radius: 50%;
+	height: 60px;
+	width: 60px;
+}
+
+.comment-card {
+	background-color: #fafafa;
+	border-radius: 6px;
+	padding: 10px 0;
+}

@@ -1,0 +1,10 @@
+export const GET_POST_DETAILS = "GET_POST_DETAILS";
+export const SET_POST_DETAILS = "SET_POST_DETAILS";
+export const GET_HOME_DATA = "GET_HOME_DATA";
+export const SET_HOME_DATA = "SET_HOME_DATA";
+export const GET_USER_LIST = "GET_USER_LIST";
+export const GET_LOGIN = "GET_LOGIN";
+export const SET_LOGIN = "SET_LOGIN";
+export const GET_USER = "GET_USER";
+export const SET_USER = "SET_USER";
+export const LOGOUT_USER = "LOGOUT_USER";
